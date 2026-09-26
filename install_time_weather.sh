@@ -4,7 +4,7 @@
 # install_time_weather.sh
 # AllStar ASL3 Time and Weather Announcement Installer
 # Author: KJ5MLL / Brian
-# GitHub: https://github.com/briankj5mll/AllStar-Time-Weather-Watch-Warning-Alerts-NWS
+# GitHub: https://github.com/g4master/AllStar-Time-Weather-Watch-Warning-Alerts-NWS
 # Version: 2.0
 #
 # Requirements:
@@ -25,7 +25,7 @@ echo ""
 echo "=============================================="
 echo "  AllStar ASL3 Time and Weather Installer"
 echo "  by KJ5MLL"
-echo "  https://github.com/briankj5mll/AllStar-Time-Weather"
+echo "  https://github.com/g4master/AllStar-Time-Weather"
 echo "  Version 2.0 - Now with NWS Watch/Warning Alerts"
 echo "=============================================="
 echo ""
